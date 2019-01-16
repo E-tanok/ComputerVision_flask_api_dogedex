@@ -8,16 +8,16 @@ The classifier includes 10 dogs races (beagle, bernese mountain dog, dhole, engl
 ### First steps
 
 Here are the instructions which allows to launch the application
-![alt text](https://github.com/E-tanok/ComputerVision_dogedex/project_instructions/first_steps.jpg)
+![alt text](https://github.com/E-tanok/ComputerVision_dogedex/blob/master/project_instructions/first_steps.jpg)
 
 
 ### Once the application is launched
 
 Select the dog picture you want to classify :
-![alt text](https://github.com/E-tanok/ComputerVision_dogedex/project_instructions/dog_selection.jpg)
+![alt text](https://github.com/E-tanok/ComputerVision_dogedex/blob/master/project_instructions/dog_selection.jpg)
 
 
 ### The classification results
 
 The classifier computes the classification, then the 5 more likely races are proposed in the browser :
-![alt text](https://github.com/E-tanok/ComputerVision_dogedex/project_instructions/results.jpg)
+![alt text](https://github.com/E-tanok/ComputerVision_dogedex/blob/master/project_instructions/results.jpg)
