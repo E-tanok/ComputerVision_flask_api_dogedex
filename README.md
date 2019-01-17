@@ -1,8 +1,9 @@
 # Dogedex
 
 Dogedex is a flask app which allows to recognize the dog race of a model pre-trained by a (keras) deep neural network.
-The classifier includes 10 dogs races (beagle, bernese mountain dog, dhole, english setter, japanese spaniel, kelpie, labrador retriever, rottweiler, siberian husky and west highland white terrier) taken from the Stanford dogs dataset (http://vision.stanford.edu/aditya86/ImageNetDogs/)
-The weights of the classifier were obtained thanks to the study in [this project](http://bit.ly/cv_dogs_study) 
+The classifier includes 10 dogs races (beagle, bernese mountain dog, dhole, english setter, japanese spaniel, kelpie, labrador retriever, rottweiler, siberian husky and west highland white terrier) taken from the Stanford dogs dataset (http://vision.stanford.edu/aditya86/ImageNetDogs/).
+
+The classifier's weights were obtained thanks to the study in [this project](http://bit.ly/cv_dogs_study) 
 
 ## How to use it
 
