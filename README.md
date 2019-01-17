@@ -21,3 +21,8 @@ Select the dog picture you want to classify :
 
 The neural network computes the classification, then the 5 more likely races are proposed in the browser :
 ![alt text](https://github.com/E-tanok/ComputerVision_dogedex/blob/master/project_instructions/results.jpg)
+
+
+# Acknowledgement :
+
+This project was realized thanks to modifications on the [HTML5 template](https://templated.co/hielo) provided by [templated.co](https://templated.co/).
